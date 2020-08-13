@@ -49,7 +49,6 @@
             - Allows you to run code to compare effect on accuracy based on proportion of nodes/filters dropped per training cycle
             
 <b>Jupyter Notebook Section descriptions (DropNet-Tiny ImageNet.ipynb):</b>
-<b>Section descriptions:</b>
 - <b>Section 1: Generic Initialization</b>
     - Run all the code under Section 1. These are the code to define the main functions required for the experiments
 - <b>Section 2: Tiny ImageNet</b>
@@ -60,7 +59,6 @@
             - Allows you to run code to evaluate performance of various metrics. 
 
 <b>Jupyter Notebook Section descriptions (DropNet-APoZ.ipynb):</b>
-<b>Section descriptions:</b>
 - <b>Section 1: Generic Initialization</b>
     - Run all the code under Section 1. These are the code to define the main functions required for the experiments. The flattenmask() function has been updated here to compare with Average Percentage of Zeros (APoZ).
 - <b>Section 2: CIFAR10</b>
